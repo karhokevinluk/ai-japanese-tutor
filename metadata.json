@@ -1,0 +1,5 @@
+{
+  "name": "ZenCalligraphy - AI Japanese Tutor",
+  "description": "A Japanese character writing practice application powered by Gemini. Select Hiragana, Katakana, or Kanji, draw them on the canvas, and get instant AI feedback on your stroke balance and accuracy.",
+  "requestFramePermissions": []
+}
